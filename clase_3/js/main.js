@@ -1,3 +1,4 @@
+//Funciones
 //declaracion
 /* function saludar(){
     let nombreIngresado= prompt("Ingresa tu nombre");
@@ -142,7 +143,7 @@ console.log(persona1.casado); */
  console.log()
 
 
- 
+
 /* 
  console.log(persona1.nombre);
  console.log(persona1.edad);
